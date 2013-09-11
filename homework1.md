@@ -3,19 +3,19 @@
 #Chapter 1
 *1. Classify each of the following as a violation of confidentiality, of integrity, of availability, or of some combination thereof.*  
 *a. John copies Mary’s homework.*  
-*Integrity*  
+*  *Integrity*  
 *b. Paul crashes Linda’s system.*  
-*Availability*  
+*  *Availability*  
 *c. Carol changes the amount of Angelo’s check from $100 to $1,000.*  
-*Integrity*  
+*  *Integrity*  
 *d. Gina forges Roger’s signature on a deed.*  
-*Integrity*  
+*  *Integrity*  
 *e. Rhonda registers the domain name “AddisonWesley.com” and refuses to let the publishing house buy or use that domain name.*  
-*Availability*
-*f. Jonah obtains Peter’s credit card number and has the credit card company cancel the card and replace it with another card bearing a different account number.*
-*Confidentiality*
-*g. Henry spoofs Julie’s IP address to gain access to her computer.*
-*Confidentiality*
+*  *Availability*
+*f. Jonah obtains Peter’s credit card number and has the credit card company cancel the card and replace it with another card bearing a different account number.*  
+*  *Confidentiality*
+*g. Henry spoofs Julie’s IP address to gain access to her computer.*  
+* *Confidentiality*  
 <br />
 *3. The aphorism “security through obscurity” suggests that hiding information provides some level of security. Give an example of a situation in which hiding information does not add appreciably to the security of a system. Then give an example of a situation in which it does.*
 *<br />Answer*
