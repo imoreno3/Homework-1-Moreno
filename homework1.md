@@ -1,14 +1,13 @@
 "Homework 1"
 =============
 #Chapter 1
-*1. Classify each of the following as a violation of confidentiality, of integrity,*
-*of availability, or of some combination thereof.*
-*<br />a. John copies Mary’s homework.*
-*<br />Answer*
+*1. Classify each of the following as a violation of confidentiality, of integrity, of availability, or of some combination thereof.*  
+*a. John copies Mary’s homework.*
+*<br />Integrity*
 *<br />b. Paul crashes Linda’s system.*
 *<br />Answer*
 *<br />c. Carol changes the amount of Angelo’s check from $100 to $1,000.*
-*<br />Answer*
+*<br />Integrity*
 *<br />d. Gina forges Roger’s signature on a deed.*
 *<br />Answer*
 *<br />e. Rhonda registers the domain name “AddisonWesley.com” and refuses to let the publishing house buy or use that domain name.*
