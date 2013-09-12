@@ -79,7 +79,7 @@ end
 end  
 
 * **c. Modify your command so that the deletion can occur only if p has modify rights over s and q does not have own rights over s.**  
- - delete_all_rights(p,q,s)  
+ - command delete_all_rights(p,q,s)  
       create subject tmp  
       enter read in a[tmp,s]  
       if own in a[q,s] then  
