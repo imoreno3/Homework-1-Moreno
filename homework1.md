@@ -22,7 +22,8 @@
   - *Confidentiality*  
 
 **3. The aphorism “security through obscurity” suggests that hiding information provides some level of security. Give an example of a situation in which hiding information does not add appreciably to the security of a system. Then give an example of a situation in which it does.**  
-  - *Answer*  
+  - *Hiding an algorithm that protects your password might not necessarily add apreciably to the security of the system becuase the algorithm can be found within the source code of the library.*  
+  - *However, hiding the password field within a form will add apreciably to the system. This way only the rightful user will have access to the account.*
 
 **7. For each of the following statements, give an example of a situation in which the statement is true.**  
 * **a. Prevention is more important than detection and recovery.**  
